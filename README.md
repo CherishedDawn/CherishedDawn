@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="f"width="500">
+  <img src="https://github.com/CherishedDawn/CherishedDawn/blob/46348795f102e69e91435e3a5c4eab766e95a6e0/yuripie.png"width="280">
 </p>
 
 <!--
